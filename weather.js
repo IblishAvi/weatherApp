@@ -188,16 +188,4 @@ async function searchLocation(city){
 
 
 
-// const API_key = "4614fe7171ac38f84fa3d16d613d2fdb"
-// console.log("hii ,Avi");
-
-// async function FetchWeatherDetail(){
-//     const city ="goa";
-
-//     const response =await fetch(``);
-//     const data = response.json();
-//     console.log("data :",data);
-    
-// }
-
 
