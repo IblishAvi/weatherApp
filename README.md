@@ -8,3 +8,8 @@ the openweather API is used to get weather of the location by city name and  jav
 vs code Editor has used as IDE .
 
 ##The weather app for weather detection of the area.
+
+The first section is you weather section which first ask for you current  location and displays the weather for you current location .
+The second section asks for city name and city weather api being called from API which is defined in JS code .
+
+the data which will be display is current temperature in specific area and humidity and cloudness and wind speed of that particular area.
