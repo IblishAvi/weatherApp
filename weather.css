@@ -241,7 +241,7 @@ border-radius: 50%;
     }
 
     .parameters p:first-of-type {
-        font-size: 1rem !important;
+        font-size: 0.8rem !important;
         padding: 0px;
         margin: 0px;
     }
